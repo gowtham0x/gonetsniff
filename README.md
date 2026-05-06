@@ -1,6 +1,6 @@
 # GoNetSniff
 
-> A Golang-based Real-Time Network Scanner & Packet Sniffer for Total Local Network Surveillance
+> A Golang-based Real-Time Network Scanner & Packet Sniffer for Total Local Network Surveillances
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Go Report Card](https://goreportcard.com/badge/github.com/user/gonetsniff)](https://goreportcard.com/report/github.com/user/gonetsniff)
