@@ -1,4 +1,4 @@
-# GoNetSniff++
+# GoNetSniff
 
 > A Golang-based Real-Time Network Scanner & Packet Sniffer for Total Local Network Surveillance
 
